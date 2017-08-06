@@ -1,0 +1,491 @@
+.slide_6{
+	background: url(../img/p6_bc.png);
+	background-size: cover;
+	position: relative;
+}
+.slide_6_sanjiaoti p{
+	position: absolute;
+	display: none;
+}
+.slide_6_sanjiaoti p img{
+	display: inline-block;
+}
+.slide_6_s1{
+	left: -2%;
+	top: 6%;
+}
+.slide_6_s1 img{
+	width: 0.72rem;
+	height: 1.06rem;
+}
+@keyframes ss1{
+	0%{
+		left:100% ;
+		top: 10%;
+		transform: scale(5);
+	}
+	25%{
+		left:75% ;
+		top: 9%;
+		transform: scale(4);
+	}
+	50%{
+		left:50% ;
+		top: 8%;
+		transform: scale(3);
+	}
+	75%{
+		left:25% ;
+		top: 7%;
+		transform: scale(2);
+	}
+	100%{
+		left:-2% ;
+		top: 6%;
+		transform: scale(1);
+	}
+}
+.slide_6_s2{
+	left: 4%;
+	top: 8%;
+}
+.slide_6_s2 img{
+	width: 2.73rem;
+	height: 2.22rem;
+}
+@keyframes ss2{
+	0%{
+		left:-36% ;
+		top: 48%;
+		transform: scale(5);
+	}
+	25%{
+		left:-26% ;
+		top: 38%;
+		transform: scale(4);
+	}
+	50%{
+		left:-16% ;
+		top: 28%;
+		transform: scale(3);
+	}
+	75%{
+		left:-6% ;
+		top: 18%;
+		transform: scale(2);
+	}
+	100%{
+		left:4% ;
+		top: 8%;
+		transform: scale(1);
+	}
+}
+.slide_6_s3{
+	left: 25%;
+	top: 6%;
+	z-index: 5;
+}
+.slide_6_s3 img{
+	width: 2.72rem;
+	height: 2.48rem;
+}
+@keyframes ss3{
+	0%{
+		left:125% ;
+		top: 26%;
+		transform: scale(5);
+	}
+	25%{
+		left:100% ;
+		top: 21%;
+		transform: scale(4);
+	}
+	50%{
+		left:75% ;
+		top: 16%;
+		transform: scale(3);
+	}
+	75%{
+		left:50% ;
+		top: 11%;
+		transform: scale(2);
+	}
+	100%{
+		left:25% ;
+		top: 6%;
+		transform: scale(1);
+	}
+}
+.slide_6_s4{
+	left: 50%;
+	top: 7%;
+}
+.slide_6_s4 img{
+	width: 2.95rem;
+	height: 2.09rem;
+}
+@keyframes ss4{
+	0%{
+		left:10% ;
+		top: 47%;
+		transform: scale(5);
+	}
+	25%{
+		left:20% ;
+		top: 38%;
+		transform: scale(4);
+	}
+	50%{
+		left:30% ;
+		top: 28%;
+		transform: scale(3);
+	}
+	75%{
+		left:40% ;
+		top: 18%;
+		transform: scale(2);
+	}
+	100%{
+		left:50% ;
+		top: 8%;
+		transform: scale(1);
+	}
+}
+.slide_6_s5{
+	left: 95%;
+	top: 7%;
+}
+.slide_6_s5 img{
+	width: 0.68rem;
+	height: 0.83rem;
+}
+@keyframes ss5{
+	0%{
+		left:-5% ;
+		top: 11%;
+		transform: scale(5);
+	}
+	25%{
+		left:20% ;
+		top: 10%;
+		transform: scale(4);
+	}
+	50%{
+		left:45% ;
+		top: 9%;
+		transform: scale(3);
+	}
+	75%{
+		left:70% ;
+		top: 8%;
+		transform: scale(2);
+	}
+	100%{
+		left:95% ;
+		top: 7%;
+		transform: scale(1);
+	}
+}
+.slide_6_change{
+	margin-top: 22%;
+	text-align: center;
+	font-size: 28px;
+	color: #fff;
+	font-family: "华文彩云";
+	font-weight: bold;
+	position: relative;
+	z-index: 100;
+}
+.slide_6_8wei{
+	margin-top: 15%;
+	text-align: center;
+	position: relative;
+}
+.slide_6_8wei img{
+	display: inline-block;
+	width: 4.46rem;
+	height: 1.01rem;
+}
+.slide_6_rencai p{
+	position: absolute;
+}
+.slide_6_rencai p img{
+	display: inline-block;
+}
+.slide_6_gao{
+	left: 22%;
+	top: 41%;
+}
+.slide_6_gao img{
+	width: 2.11rem;
+	height: 2.51rem;
+}
+.slide_6_hua{
+	right: 23%;
+	top: 37%;
+}
+.slide_6_hua img{
+	width: 1.7rem;
+	height: 1.96rem;
+}
+.slide_6_tu{
+	left: 16%;
+	top: 61%;
+}
+.slide_6_tu img{
+	width: 2.5rem;
+	height: 2.1rem;
+}
+.slide_6_xing{
+	right: 17%;
+	top: 53%;
+}
+.slide_6_xing img{
+	width:2.1rem;
+	height: 2.61rem;
+}
+.slide_6_jiang{
+	left: 25%;
+	top: 78%;
+}
+.slide_6_jiang img{
+	width: 1.7rem;
+	height: 1.7rem;
+}
+.slide_6_wang{
+	right: 23%;
+	top: 74%;
+}
+.slide_6_wang img{
+	width: 1.81rem;
+	height: 2.2rem;
+}
+.slide_7{
+	background: url(../img/p7_bc.png);
+	background-size:cover;
+	position: relative;
+}
+.slide_7_yuanquan img{
+	display: inline-block;
+	width: 100%;
+	height: 1.28rem;
+}
+.slide_7_sanbu{
+	margin: -2% auto 0;
+	width: 100%;
+	height: 0.8rem;
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	font-family: "华文彩云";
+}
+.slide_7_didian{
+	margin-top: 4%;
+	height: 0.62rem;
+}
+.slide_7_didian p{
+	text-align: center;
+	font-size: 11px;
+	color: #fff;
+}
+.slide_7_S{
+	margin: 8% auto 0;
+	width: 4.23rem;
+	display: none;
+}
+.slide_7_S img{
+	display:block;
+	width: 4.23rem;
+	height:8.34rem;
+}
+.slide_7_yi p{
+	position: absolute;
+}
+.slide_7_yi p span{
+	display:block;
+	height: 0.3rem;
+	margin-top:0.05rem ;
+	color: #fff;
+	font-size: 13px;
+}
+.slide_7_yichang{
+	top: 36%;
+	right: 3%;
+	width: 5rem;
+}
+.slide_7_yibei{
+	top: 57%;
+	left: 11%;
+	width: 4.6rem;
+}
+.slide_7_yiye{
+	top: 77%;
+	right: 19%;
+	width:3.7rem;
+}
+.slide_7_sanjiao1{
+	position: absolute;
+	left: 6%;
+	top: 4%;
+	animation: move1 2s linear infinite;
+}
+.slide_7_sanjiao1 img{
+	display: inline-block;
+	width: 0.57rem;
+	height: 0.4rem;
+}
+@keyframes move1{
+	from{left: 6%;top: 4%;}
+	to{left: 8%;top: 6%;}
+}
+.slide_7_jiantou{
+	position: absolute;
+	left: 45%;
+	bottom: 0%;
+	animation: move 1s linear infinite;
+}
+.slide_7_jiantou img{
+	display: inline-block;
+	width: 0.64rem;
+	height: 0.25rem;
+}
+@keyframes move{
+	from{bottom: -1%;}
+	to{bottom: 2%;}
+}
+.p8-1{
+	width: 2.7rem;
+	height: 2.25rem;
+    position: absolute;
+    top: 4rem;
+    left: 5.8rem;
+    z-index: 5;
+}
+.p8-2{
+	width: 2.6rem;
+	height: 2.25rem;
+    position: absolute;
+    top: 0.28rem;
+    left: -1rem;
+}
+.p8-3{
+	position: absolute;
+	width: 0.48rem;
+	height:1.06rem ;
+    top: 0.3rem;
+    left: -1rem;
+}
+.p8-4{
+	position: absolute;
+    top: -0.5rem;
+    right: -1rem;
+    width: 0.85rem;
+    height: 1.45rem;
+}
+.p8-5{
+	position: absolute;
+    width: 0.83rem;
+    height: 0.81rem;
+    top: 2rem;
+    right: -0.68rem;
+    z-index: 2;
+}
+.p8-6{
+	width: 2.6rem;
+	height: 2.57rem;
+    position: absolute;
+    top: 3rem;
+    left: -2.5rem;
+    /*animation: p6 0.6s ease-in-out;*/
+}
+.p8-7{
+	position: absolute;
+	top: 2.46rem;
+    width: 3rem;
+    height: 0.5rem;
+    z-index: 10;
+    left: 2.22rem;
+}
+.p8-8{
+	position: absolute;
+	width: 4.32rem;
+	height: 1.27rem;
+	top: 4.48rem;
+	left: 1.61rem;
+}
+.p8-9{
+	position: absolute;
+	width: 4.3rem;
+	height: 1.73rem;
+	top:6.55rem;
+	left: 1.73rem;
+}
+.p8-10{
+	position: absolute;
+	bottom: 2rem;
+    width: 1.63rem;
+    height: 1.57rem;
+    left: 0.7rem;
+}
+.p8-11{
+	position: absolute;
+	bottom:2.31rem;
+    width: 1.6rem;
+    height: 1.44rem;
+  	right:0.86rem;
+}
+.p8-12{
+	position: absolute;
+	bottom: 1.63rem;
+    width: 1.64rem;
+    height: 2.05rem;
+    left: 2.83rem;
+}
+
+/*--------p9----------*/
+.p9-1{
+	position: absolute;
+	width: 7.11rem;
+	height: 4.14rem;
+	top:1.23rem;
+	left: 0.4rem;
+}
+.p9-2{
+	position: absolute;
+	width: 4.66rem;
+	height: 0.83rem;
+	left: 1.41rem;
+	top:5.02rem;
+}
+.p9-3{
+	position: absolute;
+	width: 3rem;
+    top: 7rem;
+    left: 2.3rem;
+}
+.p9-4{
+	position: absolute;
+	top: 7.5rem;
+    width: 1.3rem;
+    left: 3.15rem;
+}
+.p9-5{
+	position: absolute;
+	bottom: 0.5rem;
+    width: 4.5rem;
+    height: 1.87rem;
+    left: 1.59rem;
+
+}
+.p9-6{
+	position: absolute;
+	/*top: 0.8rem;*/
+	right:0.2rem;
+    width: 1.2rem;
+    height: 0.59rem;
+    animation: p9 0.8s linear infinite;
+}
+@keyframes p9{
+	0%{ top:0.9rem; }
+	100%{ top:0.5rem; }
+}
